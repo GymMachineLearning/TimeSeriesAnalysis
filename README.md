@@ -1,4 +1,4 @@
 ### Modelowanie bledów przysiad
 
-![Image](./coco.png)
+![Image](coco)
 # Nogi 
